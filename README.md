@@ -6,6 +6,8 @@
 
 I'm an Honours Mathematics student at the University of Waterloo who enjoys building systems from first principles, contributing to open-source teams, and turning real client needs into working software.
 
+**Site:** [evan-lowry.github.io](https://evan-lowry.github.io)
+
 ## What I'm working on
 
 - Building attendance infrastructure for [Don't Mess with the Don](https://github.com/uwblueprint/dont-mess-with-the-don) with UW Blueprint
