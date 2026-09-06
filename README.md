@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.svg" alt="Evan Lowry - mathematics, software, and open source" width="100%" />
+</p>
+
 # Hi, I'm Evan Lowry
 
 I'm an Honours Mathematics student at the University of Waterloo who enjoys building systems from first principles, contributing to open-source teams, and turning real client needs into working software.
