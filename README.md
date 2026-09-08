@@ -4,7 +4,8 @@
 
 # Hi, I'm Evan Lowry
 
-Honours Mathematics student at the University of Waterloo :) I like building stuff that I am passionate about. 
+Honours Mathematics student at the University of Waterloo
+I like building stuff that I am passionate about :)
 
 **Site:** [evan-lowry.github.io](https://evan-lowry.github.io)
 
@@ -20,13 +21,13 @@ Honours Mathematics student at the University of Waterloo :) I like building stu
 - [**Qube**](https://github.com/Evan-Lowry/Qube) — SwiftUI timer with GAN Bluetooth, scramble, stats, CFOP practice, and a Watch companion
 - [**Cube Solver**](https://github.com/Evan-Lowry/CubeSolver-Java) — Kociemba search with compact state tables and multithreaded search (~10× faster)
 - [**3D Engine**](https://github.com/Evan-Lowry/3D-Engine) — software-only Java rasterizer: perspective-correct UVs, OBJ import, AABB collision
-- Freelance ordering platform — Next.js cart and pizza builder; earlier Square storefront did $30k+ in online orders (private client)
+- Freelance ordering platform: Next.js cart and pizza builder; earlier Square storefront did $30k+ in online orders (private client)
 
 ### Hackathons
 
-- [**Derive AI**](https://github.com/jad-chahin/DeriveAI) (CxC) — pen-first math notebook with handwriting recognition, step solving, and graphing
-- [**Olympiknights**](https://github.com/diceccoj/deltahacks-12) (DeltaHacks 12) — Godot combat game driven by MediaPipe webcam poses
-- [**ConflictZero**](https://github.com/Evan-Lowry/conflictzero) (Midnight) — prove a conflict check passed without exposing the relationships behind it
+- [**Derive AI**](https://github.com/jad-chahin/DeriveAI) (CxC): pen-first math notebook with handwriting recognition, step solving, and graphing
+- [**Olympiknights**](https://github.com/diceccoj/deltahacks-12) (DeltaHacks 12): Godot combat game driven by MediaPipe webcam poses
+- [**ConflictZero**](https://github.com/Evan-Lowry/conflictzero) (Midnight): prove a conflict check passed without exposing the relationships behind it
 
 ## Stack
 
