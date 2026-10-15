@@ -26,7 +26,7 @@ I like building stuff that I am passionate about :)
 
 ### Hackathons
 
-- [**WebForge**](https://devpost.com/software/webforge-aiv0t7) (Hack the North 2026): turns plain-English requests for public web data into refreshable JSON APIs with source-backed records
+- [**WebForge**](https://devpost.com/software/webforge-aiv0t7) (Hack the North 2026): turns web data into refreshable JSON APIs
 - [**Derive AI**](https://github.com/jad-chahin/DeriveAI) (CxC): pen-first math notebook with handwriting recognition, step solving, and graphing
 - [**Olympiknights**](https://github.com/diceccoj/deltahacks-12) (DeltaHacks 12): Godot combat game driven by MediaPipe webcam poses
 - [**ConflictZero**](https://github.com/Evan-Lowry/conflictzero) (Midnight): prove a conflict check passed without exposing the relationships behind it
