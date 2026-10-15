@@ -7,7 +7,8 @@
 Honours Mathematics student at the University of Waterloo
 I like building stuff that I am passionate about :)
 
-**Site:** [evan-lowry.github.io](https://evan-lowry.github.io)
+**Site:** [evan-lowry.github.io](https://evan-lowry.github.io)  
+**Résumé:** [View PDF](https://github.com/Evan-Lowry/resume/blob/main/resume.pdf)
 
 ## What I'm working on
 
